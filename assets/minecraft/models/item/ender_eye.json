@@ -9,13 +9,20 @@
 		{"predicate": {"custom_model_data":3}, "model": "item/weapons/special/microhid/shooting1"},
 		{"predicate": {"custom_model_data":4}, "model": "item/weapons/special/microhid/shooting2"},
 		{"predicate": {"custom_model_data":5}, "model": "item/weapons/special/microhid/shooting3"},
-		{"predicate": {"custom_model_data":6}, "model": "item/weapons/special/microhid/shooting4"}
+		{"predicate": {"custom_model_data":6}, "model": "item/weapons/special/microhid/shooting4"},
 		
 		{"predicate": {"custom_model_data":11}, "model": "item/weapons/special/plasma_rifle/default"},
 		{"predicate": {"custom_model_data":12}, "model": "item/weapons/special/plasma_rifle/charge"},
 		{"predicate": {"custom_model_data":13}, "model": "item/weapons/special/plasma_rifle/shoot"},
 		{"predicate": {"custom_model_data":14}, "model": "item/weapons/special/plasma_rifle/ads"},
 		{"predicate": {"custom_model_data":15}, "model": "item/weapons/special/plasma_rifle/running"},
+		
+		{"predicate": {"custom_model_data":21}, "model": "item/weapons/special/phase_blade/default"},
+		{"predicate": {"custom_model_data":22}, "model": "item/weapons/special/phase_blade/charge"},
+		{"predicate": {"custom_model_data":23}, "model": "item/weapons/special/phase_blade/attack"},
+		{"predicate": {"custom_model_data":24}, "model": "item/weapons/special/phase_blade/default_red"},
+		{"predicate": {"custom_model_data":25}, "model": "item/weapons/special/phase_blade/charge_red"},
+		{"predicate": {"custom_model_data":26}, "model": "item/weapons/special/phase_blade/attack_red"},
 		
 		
 		{"predicate": {"custom_model_data":101}, "model": "item/use/adrenaline/default"},
