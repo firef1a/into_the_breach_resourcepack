@@ -1,0 +1,93 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_horse_armor"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/weapons/ak/default"},
+		{"predicate": {"custom_model_data":2}, "model": "item/weapons/ak/shooting"},
+		{"predicate": {"custom_model_data":3}, "model": "item/weapons/ak/reload"},
+		{"predicate": {"custom_model_data":4}, "model": "item/weapons/ak/running"},
+		{"predicate": {"custom_model_data":5}, "model": "item/weapons/ak/ads"},
+		{"predicate": {"custom_model_data":6}, "model": "item/weapons/ak/ads_shooting"},
+		
+		{"predicate": {"custom_model_data":11}, "model": "item/weapons/awp/default"},
+		{"predicate": {"custom_model_data":12}, "model": "item/weapons/awp/shooting"},
+		{"predicate": {"custom_model_data":13}, "model": "item/weapons/awp/reload"},
+		{"predicate": {"custom_model_data":14}, "model": "item/weapons/awp/running"},
+		{"predicate": {"custom_model_data":15}, "model": "item/weapons/awp/ads"},
+		{"predicate": {"custom_model_data":16}, "model": "item/weapons/awp/ads_shooting"},
+		
+		{"predicate": {"custom_model_data":21}, "model": "item/weapons/dbsg/default"},
+		{"predicate": {"custom_model_data":22}, "model": "item/weapons/dbsg/shooting"},
+		{"predicate": {"custom_model_data":23}, "model": "item/weapons/dbsg/reload"},
+		{"predicate": {"custom_model_data":24}, "model": "item/weapons/dbsg/running"},
+		{"predicate": {"custom_model_data":25}, "model": "item/weapons/dbsg/ads"},
+		{"predicate": {"custom_model_data":26}, "model": "item/weapons/dbsg/ads_shooting"},
+		
+		{"predicate": {"custom_model_data":31}, "model": "item/weapons/frmg/default"},
+		{"predicate": {"custom_model_data":32}, "model": "item/weapons/frmg/shooting"},
+		{"predicate": {"custom_model_data":33}, "model": "item/weapons/frmg/reload"},
+		{"predicate": {"custom_model_data":34}, "model": "item/weapons/frmg/running"},
+		{"predicate": {"custom_model_data":35}, "model": "item/weapons/frmg/ads"},
+		{"predicate": {"custom_model_data":36}, "model": "item/weapons/frmg/ads_shooting"},
+		
+		{"predicate": {"custom_model_data":41}, "model": "item/weapons/kriss_vector/default"},
+		{"predicate": {"custom_model_data":42}, "model": "item/weapons/kriss_vector/shooting"},
+		{"predicate": {"custom_model_data":43}, "model": "item/weapons/kriss_vector/reload"},
+		{"predicate": {"custom_model_data":44}, "model": "item/weapons/kriss_vector/running"},
+		{"predicate": {"custom_model_data":45}, "model": "item/weapons/kriss_vector/ads"},
+		{"predicate": {"custom_model_data":46}, "model": "item/weapons/kriss_vector/ads_shooting"},
+		
+		{"predicate": {"custom_model_data":51}, "model": "item/weapons/lmg/default"},
+		{"predicate": {"custom_model_data":52}, "model": "item/weapons/lmg/shooting"},
+		{"predicate": {"custom_model_data":53}, "model": "item/weapons/lmg/reload"},
+		{"predicate": {"custom_model_data":54}, "model": "item/weapons/lmg/running"},
+		{"predicate": {"custom_model_data":55}, "model": "item/weapons/lmg/ads"},
+		{"predicate": {"custom_model_data":56}, "model": "item/weapons/lmg/ads_shooting"},
+		
+		{"predicate": {"custom_model_data":61}, "model": "item/weapons/p90/default"},
+		{"predicate": {"custom_model_data":62}, "model": "item/weapons/p90/shooting"},
+		{"predicate": {"custom_model_data":63}, "model": "item/weapons/p90/reload"},
+		{"predicate": {"custom_model_data":64}, "model": "item/weapons/p90/running"},
+		{"predicate": {"custom_model_data":65}, "model": "item/weapons/p90/ads"},
+		{"predicate": {"custom_model_data":66}, "model": "item/weapons/p90/ads_shooting"},
+		
+		{"predicate": {"custom_model_data":71}, "model": "item/weapons/pistol/default"},
+		{"predicate": {"custom_model_data":72}, "model": "item/weapons/pistol/shooting"},
+		{"predicate": {"custom_model_data":73}, "model": "item/weapons/pistol/reload"},
+		{"predicate": {"custom_model_data":74}, "model": "item/weapons/pistol/running"},
+		{"predicate": {"custom_model_data":75}, "model": "item/weapons/pistol/ads"},
+		{"predicate": {"custom_model_data":76}, "model": "item/weapons/pistol/ads_shooting"},
+		
+		{"predicate": {"custom_model_data":81}, "model": "item/weapons/revolver/default"},
+		{"predicate": {"custom_model_data":82}, "model": "item/weapons/revolver/shooting"},
+		{"predicate": {"custom_model_data":83}, "model": "item/weapons/revolver/reload"},
+		{"predicate": {"custom_model_data":84}, "model": "item/weapons/revolver/running"},
+		{"predicate": {"custom_model_data":85}, "model": "item/weapons/revolver/ads"},
+		{"predicate": {"custom_model_data":86}, "model": "item/weapons/revolver/ads_shooting"},
+		
+		{"predicate": {"custom_model_data":91}, "model": "item/weapons/glockinator/default"},
+		{"predicate": {"custom_model_data":92}, "model": "item/weapons/glockinator/reload"},
+		{"predicate": {"custom_model_data":93}, "model": "item/weapons/glockinator/running"},
+		{"predicate": {"custom_model_data":94}, "model": "item/weapons/glockinator/ads"},
+		{"predicate": {"custom_model_data":95}, "model": "item/weapons/glockinator/shooting1"},
+		{"predicate": {"custom_model_data":96}, "model": "item/weapons/glockinator/shooting2"},
+		{"predicate": {"custom_model_data":97}, "model": "item/weapons/glockinator/shooting3"},
+		{"predicate": {"custom_model_data":98}, "model": "item/weapons/glockinator/shooting4"},
+		{"predicate": {"custom_model_data":99}, "model": "item/weapons/glockinator/ads_shooting1"},
+		{"predicate": {"custom_model_data":100}, "model": "item/weapons/glockinator/ads_shooting2"},
+		{"predicate": {"custom_model_data":101}, "model": "item/weapons/glockinator/ads_shooting3"},
+		{"predicate": {"custom_model_data":102}, "model": "item/weapons/glockinator/ads_shooting4"},
+		
+		{"predicate": {"custom_model_data":111}, "model": "item/weapons/epsilon11/default"},
+		{"predicate": {"custom_model_data":112}, "model": "item/weapons/epsilon11/shooting"},
+		{"predicate": {"custom_model_data":113}, "model": "item/weapons/epsilon11/reload"},
+		{"predicate": {"custom_model_data":114}, "model": "item/weapons/epsilon11/running"},
+		{"predicate": {"custom_model_data":115}, "model": "item/weapons/epsilon11/ads"},
+		{"predicate": {"custom_model_data":116}, "model": "item/weapons/epsilon11/ads_shooting"},
+
+		{"predicate": {"custom_model_data":1000}, "model" : "item/iron_horse_armor"}
+
+	]
+}

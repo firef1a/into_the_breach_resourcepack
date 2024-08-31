@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_13"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/keycard/captain_keycard"},
+		{"predicate": {"custom_model_data":2}, "model": "item/keycard/chaos_insurgency_keycard"},
+		{"predicate": {"custom_model_data":3}, "model": "item/keycard/facility_manager_keycard"},
+		{"predicate": {"custom_model_data":4}, "model": "item/keycard/guard_keycard"},
+		{"predicate": {"custom_model_data":5}, "model": "item/keycard/janitor_keycard"},
+		{"predicate": {"custom_model_data":6}, "model": "item/keycard/operative_keycard"},
+		{"predicate": {"custom_model_data":7}, "model": "item/keycard/private_keycard"},
+		{"predicate": {"custom_model_data":8}, "model": "item/keycard/research_supervisor_keycard"},
+		{"predicate": {"custom_model_data":9}, "model": "item/keycard/scientist_keycard"},
+		{"predicate": {"custom_model_data":10}, "model": "item/keycard/seragent_keycard"},
+		{"predicate": {"custom_model_data":11}, "model": "item/keycard/site_director_keycard"},
+		{"predicate": {"custom_model_data":12}, "model": "item/keycard/zone_manager_keycard"},
+
+		{"predicate": {"custom_model_data":1000}, "model" : "item/music_disc_13"}
+
+	]
+}

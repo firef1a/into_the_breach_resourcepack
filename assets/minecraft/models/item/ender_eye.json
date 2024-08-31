@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ender_eye"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/weapons/special/microhid/default"},
+		{"predicate": {"custom_model_data":2}, "model": "item/weapons/special/microhid/charge"},
+		{"predicate": {"custom_model_data":3}, "model": "item/weapons/special/microhid/shooting1"},
+		{"predicate": {"custom_model_data":4}, "model": "item/weapons/special/microhid/shooting2"},
+		{"predicate": {"custom_model_data":5}, "model": "item/weapons/special/microhid/shooting3"},
+		{"predicate": {"custom_model_data":6}, "model": "item/weapons/special/microhid/shooting4"}
+		
+		{"predicate": {"custom_model_data":11}, "model": "item/weapons/special/plasma_rifle/default"},
+		{"predicate": {"custom_model_data":12}, "model": "item/weapons/special/plasma_rifle/charge"},
+		{"predicate": {"custom_model_data":13}, "model": "item/weapons/special/plasma_rifle/shoot"},
+		{"predicate": {"custom_model_data":14}, "model": "item/weapons/special/plasma_rifle/ads"},
+		{"predicate": {"custom_model_data":15}, "model": "item/weapons/special/plasma_rifle/running"},
+		
+		
+		{"predicate": {"custom_model_data":101}, "model": "item/use/adrenaline/default"},
+		{"predicate": {"custom_model_data":102}, "model": "item/use/adrenaline/inject"},
+		
+		{"predicate": {"custom_model_data":111}, "model": "item/use/painkillers/pain_killers"},
+		{"predicate": {"custom_model_data":122}, "model": "item/use/painkillers/pain_killers_use"},
+		
+		{"predicate": {"custom_model_data":121}, "model": "item/use/grenade/default"},
+		{"predicate": {"custom_model_data":122}, "model": "item/use/grenade/pin_pulled"},
+		
+		{"predicate": {"custom_model_data":131}, "model": "item/use/stun_grenade/default"},
+		{"predicate": {"custom_model_data":132}, "model": "item/use/stun_grenade/pin_pulled"},
+
+
+
+		{"predicate": {"custom_model_data":1000}, "model" : "item/ender_eye"}
+
+	]
+}

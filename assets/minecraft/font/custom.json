@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {"type":"bitmap", "file":"font/site03.png", "ascent":0, "height":32, "chars":["S"]},
+        {"type":"bitmap", "file":"font/cracks.png", "ascent":4, "height":7, "chars":["☲☵☰☱☳☴☶☷"]},
+        {"type":"bitmap", "file":"font/shop.png", "ascent":11, "height":16, "chars":["○"]},
+        {"type":"bitmap", "file":"font/negative.png", "ascent":-2000, "height":-3, "chars":["-"]},
+        {"type":"bitmap", "file":"font/negative.png", "ascent":-2000, "height":-1002, "chars":["="]},
+		{"type":"bitmap", "file":"font/1px.png", "ascent":256, "height":1024, "chars":["|"]},
+        {"type":"bitmap", "file":"font/shoot1.png", "ascent":16, "height":32, "chars":["a"]},
+        {"type":"bitmap", "file":"font/shoot2.png", "ascent":16, "height":32, "chars":["b"]}
+    ]
+}

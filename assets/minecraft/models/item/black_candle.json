@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/black_candle"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/use/radio/radio_on"},
+		{"predicate": {"custom_model_data":2}, "model": "item/use/radio/radio_off"},
+
+		{"predicate": {"custom_model_data":1000}, "model" : "item/black_candle"}
+
+	]
+}

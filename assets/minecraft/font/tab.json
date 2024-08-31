@@ -1,0 +1,6 @@
+{
+    "providers": [
+        {"type":"bitmap", "file":"font/tab/bars.png", "ascent":10, "height":10, "chars":["1234","56  "]},
+        {"type":"bitmap", "file":"font/tab/numbers.png", "ascent":8, "height":8, "chars":["!@#$%^&*","()-     "]}
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "providers": [
+		{"type":"bitmap", "file":"font/hotbar/bars.png", "ascent":0, "height":64, "chars":["0123456abc789⁰¹²³⁴⁵⁶def⁷⁸⁹______"]}
+    ]
+}
