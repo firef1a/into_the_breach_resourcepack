@@ -796,12 +796,12 @@
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"firstperson_righthand": {
-			"rotation": [1, 56, 0],
-			"translation": [-12, -4.5, -9.5]
+			"rotation": [-28.65, 62.63, 28.2],
+			"translation": [-10, -6.5, -7.75]
 		},
 		"firstperson_lefthand": {
-			"rotation": [1, 56, 0],
-			"translation": [-12, -4.5, -9.5]
+			"rotation": [-28.65, 62.63, 28.2],
+			"translation": [-10, -6.5, -7.75]
 		},
 		"gui": {
 			"rotation": [-94, 56, 127],
