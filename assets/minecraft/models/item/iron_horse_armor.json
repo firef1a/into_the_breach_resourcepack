@@ -86,6 +86,13 @@
 		{"predicate": {"custom_model_data":114}, "model": "item/weapons/epsilon11/running"},
 		{"predicate": {"custom_model_data":115}, "model": "item/weapons/epsilon11/ads"},
 		{"predicate": {"custom_model_data":116}, "model": "item/weapons/epsilon11/ads_shooting"},
+		
+		{"predicate": {"custom_model_data":121}, "model": "item/weapons/better_pistol/default"},
+		{"predicate": {"custom_model_data":122}, "model": "item/weapons/better_pistol/shooting"},
+		{"predicate": {"custom_model_data":123}, "model": "item/weapons/better_pistol/reload"},
+		{"predicate": {"custom_model_data":124}, "model": "item/weapons/better_pistol/running"},
+		{"predicate": {"custom_model_data":125}, "model": "item/weapons/better_pistol/ads"},
+		{"predicate": {"custom_model_data":126}, "model": "item/weapons/better_pistol/ads_shooting"},
 
 		{"predicate": {"custom_model_data":1000}, "model" : "item/iron_horse_armor"}
 
