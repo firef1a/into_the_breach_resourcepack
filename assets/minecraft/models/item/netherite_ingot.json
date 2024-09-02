@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/netherite_ingot"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/static/ldoor_open1"},
+		{"predicate": {"custom_model_data":2}, "model": "item/static/ldoor_open2"},
+
+		{"predicate": {"custom_model_data":100}, "model": "item/static/blast_doors/left_blast_door"},
+		{"predicate": {"custom_model_data":101}, "model": "item/static/blast_doors/right_blast_door"},
+
+		{"predicate": {"custom_model_data":1000}, "model" : "item/netherite_ingot"}
+
+	]
+}
